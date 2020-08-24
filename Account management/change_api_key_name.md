@@ -2,7 +2,7 @@
 
 - `/private/change_api_key_name`
 
-Changes name for key with given id
+Changes name for key with given id.
 
 
 
